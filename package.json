@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "global-time": "^1.5.1",
+    "gm": "^1.23.1",
     "hash-files": "^1.1.1",
     "prompt-sync": "^4.2.0",
     "qr-image": "^3.2.0"
